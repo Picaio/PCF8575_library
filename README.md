@@ -1,17 +1,5 @@
-<div>
-<a href="https://www.mischianti.org/forums/forum/mischiantis-libraries/pcf8575-16bits-i2c-digital-i-o-expander/"><img
-  src="https://github.com/xreef/LoRa_E32_Series_Library/raw/master/resources/buttonSupportForumEnglish.png" alt="Support forum pcf8575 English"
-   align="right"></a>
-</div>
-<div>
-<a href="https://www.mischianti.org/it/forums/forum/le-librerie-di-mischianti/pcf8575-expander-digitale-i-o-i2c-a-16bits/"><img
-  src="https://github.com/xreef/LoRa_E32_Series_Library/raw/master/resources/buttonSupportForumItaliano.png" alt="Forum supporto pcf8575 italiano"
-  align="right"></a>
-</div>
 
-###Additional information and document update here on my site: [pcf8575 Article](https://www.mischianti.org/2019/07/22/pcf8575-i2c-16-bit-digital-i-o-expander/).
 
-###If you need less pins [here](https://www.mischianti.org/2019/01/02/pcf8574-i2c-digital-i-o-expander-fast-easy-usage/) you can find pcf8574 discrete 8bit version of the IC.
 
 Library to use i2c analog IC with arduino and esp8266. Can read and write digital value with only 2 wire (perfect for ESP-01).
 
